@@ -11,7 +11,9 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'sass', '3.2.19'
 gem 'bower-rails'
-gem "foreman"
+gem 'foreman'
+gem 'angular-rails-templates'
+gem 'sprockets', '2.12.3'
 
 group :development, :test do
   gem 'byebug'
